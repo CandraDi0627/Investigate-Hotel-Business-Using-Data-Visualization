@@ -1,0 +1,2 @@
+# Investigate-Hotel-Business-Using-Data-Visualization
+In this Mini Project, I act as a member of the Data Scientist team at a hotel company. As a member of the Data Scientist team, I have the responsibility to provide insights related to hotel business performance. This insight can be sought by exploring data, such as analyzing how customers behave when ordering hotel tickets or looking for factors that influence the cancellation of hotel ticket orders. Then present the insights you get using visualization and data storytelling.
